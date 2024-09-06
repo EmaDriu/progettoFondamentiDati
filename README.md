@@ -1,0 +1,1 @@
+Tutti i file csv sono presi dal sito https://insideairbnb.com/get-the-data/ In particolare, i csv delle città sono i file nomminati listings.csv.gz, mentre per la città di Firenze ho scaricato il file Geojson per i quartieri della città
